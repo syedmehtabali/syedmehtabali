@@ -22,12 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syedmehtabali&theme=tokyonight&hide_border=true)<br/>
 ![GitHub metrics](https://metrics.lecoq.io/syedmehtabali)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmehtabali&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
